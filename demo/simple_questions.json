@@ -1,0 +1,18 @@
+[
+{
+    "id": "projectName",
+    "q": "Project name?"
+},
+{
+    "id": "license",
+    "q": "License?",
+    "choices": [
+        "Apache 2", "BSD", "GPL", "MIT"
+    ]
+},
+{
+    "id": "useFizzler",
+    "q": "Do you want to use fizzler?",
+    "type": "boolean"
+}
+]
