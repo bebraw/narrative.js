@@ -2,7 +2,7 @@
     "name": "narrative.js",
     "description": "narrative.js makes it easy to write narrative scripts",
     "author": "Juho Vepsalainen <bebraw@gmail.com>",
-    "version": "0.1.0",
+    "version": "0.2.0",
 
     "dependencies": {
         "suite.js": ">= 0.3.0",
